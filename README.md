@@ -11,8 +11,10 @@ This project demonstrates how to build a simple yet powerful conversational AI a
 - 🤖 **OpenAI GPT Support**: Powered by GPT-4 / GPT-3.5 via OpenAI API.
 - 💬 **Conversational Memory**: Keeps track of previous messages.
 - 🛠️ Easy to customize and expand.
-
+- 
 ---
+
+![Chainllit](https://github.com/user-attachments/assets/c30ea1d8-135f-4c2e-9c41-06ea34f9109c)
 
 ## 🧰 Tech Stack
 
@@ -22,6 +24,7 @@ This project demonstrates how to build a simple yet powerful conversational AI a
 - Python 3.10+
 
 ---
+
 
 ## 📦 Installation
 
